@@ -14,6 +14,7 @@ Agent orchestration system. Dashboard manages tasks, agents work in parallel, au
 - [Logging](./logging.md) — structured logging, debugging
 - [Testing](./testing.md) — setup, strategy
 - [GitHub](./github.md) — PR creation, merge detection
+- [Terminal Viewer](./terminal-viewer.md) — inline agent output preview
 - [Pi Extension](./pi-extension.md) — optional pi tool + /tasks command
 
 ## Overview
